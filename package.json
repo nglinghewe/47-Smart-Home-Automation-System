@@ -1,0 +1,26 @@
+{
+  "name": "47-jovbf",
+  "version": "1.0.0",
+  "description": "A cutting-edge home automation system that allows users to control various appliances and devices remotely, providing convenience and energy efficiency.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nglinghewe/47-Smart-Home-Automation-System.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "nglinghewe",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
